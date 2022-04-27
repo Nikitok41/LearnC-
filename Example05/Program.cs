@@ -8,5 +8,5 @@ if (userename.ToLower() == "даша")
 else 
 {
     Console.Write("Привет, ");
-    Console.Write(usrename);
+    Console.Write(userename);
 }
